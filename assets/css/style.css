@@ -365,7 +365,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #0F98EA;}
 }
 .timeline-horizontal-border i {
     font-size:  10px;
-    color: #d92cf9;
+    color: #0F98EA;
     margin-right:  5px;
 }
 span.single-timeline-horizontal {
@@ -840,8 +840,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     font-size: 20px;
     cursor: pointer;
     color: #fff;
-    background:#b636ff;
-	border:1px solid #b636ff;
+    background:#0F98EA;
+	border:1px solid #0F98EA;
 	border-radius:50%;
 	-webkit-transition: .5s; 
 	-moz-transition:.5s; 
@@ -857,7 +857,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 #scroll-Top  .return-to-top i{
-    position:relative;
+    position: relative;
     bottom:0;
 
 }
@@ -875,6 +875,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
 
 
 
