@@ -152,7 +152,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     margin-left: 15px;
 }
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a {color:#6a708e;}
-.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:hover,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:focus,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li.active>a{color: #d92cf9;} /* #1520A6*/
+.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:hover,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:focus,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li.active>a{color: #0F98EA;} /* #1520A6*/
 /*.nav li*/
 
 
@@ -218,7 +218,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #0F98EA;}
     text-transform: uppercase;
     line-height: 1.5;
 }
-.header-text h2 span {color: #865aa0;}
+.header-text h2 span {color: #35B9FD;}
 .header-text p {
     color: #fff;
     font-size: 20px;
@@ -494,7 +494,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 .timeline-content span>i, .experience-time span>i {
-    color: #d92cf9;
+    color: #0F98EA;
     position: absolute;
     font-size: 10px;
     left: -14.5%;
@@ -875,6 +875,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
 
 
 
